@@ -1,3 +1,8 @@
+Modified version of the CK project from Mauricio Aniche. Original Can be found at:
+https://github.com/mauricioaniche/ck
+
+Below is the orignial ReadMe
+
 # CK
 
 [![Build Status](https://travis-ci.org/mauricioaniche/ck.svg?branch=master)](https://travis-ci.org/mauricioaniche/ck)
